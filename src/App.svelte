@@ -10,9 +10,9 @@
 
 <style>
   h1 {
-    color: purple;
+    color: #0088ff;
   }
 </style>
 
 <h1>{message}</h1>
-<h2>Change me!</h2>
+<h2>I am changed!</h2>
