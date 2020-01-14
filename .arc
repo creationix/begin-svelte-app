@@ -5,6 +5,7 @@ cookie-d50
 
 @http
 get /api
+get /greet/:name
 
 @tables
 data
