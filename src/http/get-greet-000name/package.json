@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-greet-000name",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
